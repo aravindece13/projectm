@@ -6,7 +6,7 @@
   "supportedJavaVersions": [],
   "redeploymentEnabled": true,
   "name": "com.mycompany:projectm:1.0.0-SNAPSHOT",
-  "minMuleVersion": "4.7.0",
+  "minMuleVersion": "4.6.0",
   "requiredProduct": "MULE_EE",
   "classLoaderModelLoaderDescriptor": {
     "id": "mule",
