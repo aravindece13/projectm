@@ -1,0 +1,7 @@
+<coverage version="1">
+  <file path="src/main/mule/projectm.xml">
+    <lineToCover lineNumber="24" covered="true"/>
+    <lineToCover lineNumber="13" covered="true"/>
+    <lineToCover lineNumber="14" covered="true"/>
+  </file>
+</coverage>

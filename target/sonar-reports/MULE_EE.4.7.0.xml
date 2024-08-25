@@ -1,0 +1,8 @@
+<testExecutions version="1">
+  <file path="src/test/munit/projectm-test-suite.xml">
+    <testCase name="projectm-test-case" duration="882"/>
+  </file>
+  <file path="src/test/munit/projectm-test-suite.xml">
+    <testCase name="projectm-test-case" duration="174"/>
+  </file>
+</testExecutions>

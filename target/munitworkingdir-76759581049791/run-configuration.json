@@ -1,0 +1,75 @@
+{
+  "runToken": "fff45a87-9b7e-4533-8938-de09a58189d3",
+  "projectName": "projectm",
+  "domainLocation": "",
+  "tags": [],
+  "testNames": [],
+  "testNamesWithSuite": [],
+  "suitePaths": [
+    "projectm-test-suite.xml"
+  ],
+  "allSuitePaths": [
+    "projectm-test-suite.xml"
+  ],
+  "skipAfterFailure": false,
+  "notifierConfigurations": [
+    {
+      "clazz": "org.mule.munit.remote.notifiers.ConsoleNotifier",
+      "parameters": [
+        {
+          "name": "runToken",
+          "type": "java.lang.String",
+          "value": "fff45a87-9b7e-4533-8938-de09a58189d3"
+        }
+      ]
+    }
+  ],
+  "coverageConfiguration": {
+    "runCoverage": true,
+    "randomizeCoveragePort": true,
+    "suitePaths": [
+      "projectm-test-suite.xml"
+    ],
+    "ignoredFiles": [],
+    "ignoredFlowNames": []
+  },
+  "containerConfiguration": {
+    "value": {
+      "mavenConfiguration": {
+        "settingsXmlFilePath": "/Users/ajayachandiran/.m2/settings.xml",
+        "globalSettingsXmlFilePath": "/opt/homebrew/Cellar/maven/3.9.6/libexec/conf/settings.xml",
+        "mavenRepositoryDirectoryPath": "/Users/ajayachandiran/.m2/repository",
+        "activeProfiles": [
+          "mulesoft"
+        ],
+        "offlineMode": false,
+        "forcePolicyUpdate": true,
+        "ignoreArtifactDescriptorRepositories": false,
+        "remoteRepositories": [
+          {
+            "id": "mulesoft-releases",
+            "url": "https://repository.mulesoft.org/releases/"
+          },
+          {
+            "id": "central",
+            "url": "https://repo.maven.apache.org/maven2"
+          }
+        ]
+      },
+      "serverPluginConfigurations": [
+        {
+          "groupId": "com.mulesoft.munit.plugins",
+          "artifactId": "munit-coverage-plugin",
+          "version": "3.2.1",
+          "type": "jar",
+          "classifier": "mule-server-plugin"
+        }
+      ],
+      "runtimeId": "4.7.0",
+      "product": "MULE_EE",
+      "munitWorkingDirectoryPath": "/Users/ajayachandiran/AnypointStudio/nologs/projectm/target/munitworkingdir-76759581049791",
+      "log4JConfigurationFilePath": "/Users/ajayachandiran/AnypointStudio/nologs/projectm/target/test-classes/log4j2-test.xml"
+    }
+  },
+  "clearParameters": false
+}

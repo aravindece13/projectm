@@ -1,0 +1,42 @@
+{
+  "resources": [
+    {
+      "name": "projectm.xml",
+      "weight": 100.0,
+      "flows": [
+        {
+          "name": "projectmFlow",
+          "type": "FLOW",
+          "locations": [
+            {
+              "path": "projectmFlow/processors/2",
+              "lineNumber": 24
+            },
+            {
+              "path": "projectmFlow/processors/0",
+              "lineNumber": 13
+            },
+            {
+              "path": "projectmFlow/processors/1",
+              "lineNumber": 14
+            }
+          ],
+          "coveredLocations": [
+            {
+              "path": "projectmFlow/processors/2",
+              "lineNumber": 24
+            },
+            {
+              "path": "projectmFlow/processors/0",
+              "lineNumber": 13
+            },
+            {
+              "path": "projectmFlow/processors/1",
+              "lineNumber": 14
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

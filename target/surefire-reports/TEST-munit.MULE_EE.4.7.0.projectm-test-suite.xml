@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="MULE_EE.4.7.0.projectm-test-suite" time="0.177" failures="0" errors="0" skipped="0" tests="1">
+  <properties>
+    <property key="java.specification.version" value="17"/>
+    <property key="sun.jnu.encoding" value="UTF-8"/>
+    <property key="java.class.path" value="/opt/homebrew/Cellar/maven/3.9.6/libexec/boot/plexus-classworlds-2.7.0.jar"/>
+    <property key="java.vm.vendor" value="Eclipse Adoptium"/>
+    <property key="sun.arch.data.model" value="64"/>
+    <property key="java.vendor.url" value="https://adoptium.net/"/>
+    <property key="user.timezone" value="Asia/Kolkata"/>
+    <property key="maven.conf" value="/opt/homebrew/Cellar/maven/3.9.6/libexec/conf"/>
+    <property key="java.vm.specification.version" value="17"/>
+    <property key="os.name" value="Mac OS X"/>
+    <property key="sun.java.launcher" value="SUN_STANDARD"/>
+    <property key="user.country" value="IN"/>
+    <property key="sun.boot.library.path" value="/Library/Java/JavaVirtualMachines/temurin-17.jdk/Contents/Home/lib"/>
+    <property key="sun.java.command" value="org.codehaus.plexus.classworlds.launcher.Launcher test"/>
+    <property key="jdk.debug" value="release"/>
+    <property key="maven.home" value="/opt/homebrew/Cellar/maven/3.9.6/libexec"/>
+    <property key="sun.cpu.endian" value="little"/>
+    <property key="user.home" value="/Users/ajayachandiran"/>
+    <property key="user.language" value="en"/>
+    <property key="sun.stderr.encoding" value="ISO8859-1"/>
+    <property key="java.specification.vendor" value="Oracle Corporation"/>
+    <property key="java.version.date" value="2024-01-16"/>
+    <property key="java.home" value="/Library/Java/JavaVirtualMachines/temurin-17.jdk/Contents/Home"/>
+    <property key="file.separator" value="/"/>
+    <property key="java.vm.compressedOopsMode" value="Zero based"/>
+    <property key="line.separator" value="&#xa;"/>
+    <property key="sun.stdout.encoding" value="ISO8859-1"/>
+    <property key="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property key="java.specification.name" value="Java Platform API Specification"/>
+    <property key="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property key="java.runtime.version" value="17.0.10+7"/>
+    <property key="user.name" value="ajayachandiran"/>
+    <property key="path.separator" value=":"/>
+    <property key="os.version" value="14.6.1"/>
+    <property key="java.runtime.name" value="OpenJDK Runtime Environment"/>
+    <property key="file.encoding" value="ISO8859-1"/>
+    <property key="guice.disable.misplaced.annotation.check" value="true"/>
+    <property key="java.vm.name" value="OpenJDK 64-Bit Server VM"/>
+    <property key="java.vendor.version" value="Temurin-17.0.10+7"/>
+    <property key="java.vendor.url.bug" value="https://github.com/adoptium/adoptium-support/issues"/>
+    <property key="java.io.tmpdir" value="/var/folders/32/t_yvdhq50k9g20567tk71l8r0000gn/T/"/>
+    <property key="java.version" value="17.0.10"/>
+    <property key="user.dir" value="/Users/ajayachandiran/AnypointStudio/nologs/projectm"/>
+    <property key="os.arch" value="aarch64"/>
+    <property key="maven.multiModuleProjectDirectory" value="/Users/ajayachandiran/AnypointStudio/nologs/projectm"/>
+    <property key="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property key="native.encoding" value="ISO8859-1"/>
+    <property key="java.library.path" value="/Users/ajayachandiran/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:."/>
+    <property key="java.vm.info" value="mixed mode"/>
+    <property key="java.vendor" value="Eclipse Adoptium"/>
+    <property key="java.vm.version" value="17.0.10+7"/>
+    <property key="classworlds.conf" value="/opt/homebrew/Cellar/maven/3.9.6/libexec/bin/m2.conf"/>
+    <property key="sun.io.unicode.encoding" value="UnicodeBig"/>
+    <property key="library.jansi.path" value="/opt/homebrew/Cellar/maven/3.9.6/libexec/lib/jansi-native"/>
+    <property key="java.class.version" value="61.0"/>
+    <property key="mule.classloader.container.jpmsModuleLayer" value="false"/>
+    <property key="munit.system.properties.file" value="/Users/ajayachandiran/AnypointStudio/nologs/projectm/target/user.system.properties"/>
+    <property key="org.glassfish.grizzly.DEFAULT_MEMORY_MANAGER" value="org.glassfish.grizzly.memory.HeapMemoryManager"/>
+  </properties>
+  <testcase time="0.174" name="projectm-test-case" classname="MULE_EE.4.7.0.projectm-test-suite"/>
+</testsuite>
